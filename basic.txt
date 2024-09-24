@@ -1,1 +1,7 @@
 welcome to github world
+12345678910
+welcome
+ECE-D
+ECE-C
+AIML-B
+24CS102-SDP
